@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\CJ\\source\\repos\\Riza_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEC72779-3730-4563-A919-D3C40476994E}|Riza_project\\Riza_project.csproj|C:\\Users\\CJ\\source\\repos\\Riza_project\\riza_project\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EEC72779-3730-4563-A919-D3C40476994E}|Riza_project\\Riza_project.csproj|c:\\users\\cj\\source\\repos\\riza_project\\riza_project\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EEC72779-3730-4563-A919-D3C40476994E}|Riza_project\\Riza_project.csproj|solutionrelative:riza_project\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC72779-3730-4563-A919-D3C40476994E}|Riza_project\\Riza_project.csproj|c:\\users\\cj\\source\\repos\\riza_project\\riza_project\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEC72779-3730-4563-A919-D3C40476994E}|Riza_project\\Riza_project.csproj|C:\\Users\\CJ\\source\\repos\\Riza_project\\riza_project\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEC72779-3730-4563-A919-D3C40476994E}|Riza_project\\Riza_project.csproj|solutionrelative:riza_project\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +31,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Registration.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.cs",
-              "RelativeDocumentMoniker": "Riza_project\\Registration.aspx.cs",
-              "ToolTip": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.cs",
-              "RelativeToolTip": "Riza_project\\Registration.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:45:29.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Registration.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.designer.cs",
-              "RelativeDocumentMoniker": "Riza_project\\Registration.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.designer.cs",
-              "RelativeToolTip": "Riza_project\\Registration.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:47:42.008Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,6 +44,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-03-09T14:45:03.952Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "Riza_project\\Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.cs",
+              "RelativeToolTip": "Riza_project\\Registration.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:45:29.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Riza_project\\Registration.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\CJ\\source\\repos\\Riza_project\\Riza_project\\Registration.aspx.designer.cs",
+              "RelativeToolTip": "Riza_project\\Registration.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:47:42.008Z"
             },
             {
               "$type": "Bookmark",
